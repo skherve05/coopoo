@@ -13,7 +13,7 @@ public class Robot
     String name ;
     private static int numero = 0 ;
     private static int MIN_NAME_LENGTH = 3;
-    private static int MIN_POSITION = 0;
+    private static int MIN_POSITION = 0; // la personne C met un commentaire
     private static int MAX_POSITION = 10;
     CanvasRobot canvasRobot;
     String colourBody;
